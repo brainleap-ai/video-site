@@ -1,5 +1,3 @@
-
-<a href="https://youtu.be/9kP68w_MOLE" title="Introduce to Cooragent"><img src="./assets/thumbnail.png" alt="introduction" /></a>
-
-
-[![introduction](./assets/thumbnail.png)](https://youtu.be/9kP68w_MOLE "Introduce to Cooragent")
+<h5 align="center">
+<video src="https://youtu.be/9kP68w_MOLE" poster="./assets/thumbnail.png" width="70%" alt="introduce cooragent" controls></video>
+</h5>
