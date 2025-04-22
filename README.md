@@ -1,1 +1,5 @@
-<video src="https://github.com/user-attachments/assets/72e27913-25ed-46ae-ac54-87e32aa8a880" width="352" height="720"></video>
+
+<a href="https://youtu.be/9kP68w_MOLE" title="Introduce to Cooragent"><img src="./assets/thumbnail.png" alt="introduction" /></a>
+
+
+[![introduction](./assets/thumbnail.png)](https://youtu.be/9kP68w_MOLE "Introduce to Cooragent")
